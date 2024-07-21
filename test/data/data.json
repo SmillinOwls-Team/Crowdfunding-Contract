@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Valid 01",
+        "slug": "valid-01",
+        "shortDescription": "Test ok",
+        "description": "Test ok",
+        "logoUrl": "https://polkastarter.com/_next/image?url=https%3A%2F%2Fassets.polkastarter.com%2F8ybr83fb0ca45cm1yvrcaclwbvcp&w=96&q=70",
+        "coverBackgroundUrl": "https://polkastarter.com/_next/image?url=https%3A%2F%2Fassets.polkastarter.com%2Fw2lq5t4puh30qbpdd5fp953lddp6&w=828&q=95",
+        "maxAllocation": 500,
+        "totalRaise": 200000,
+        "tokenSymbol": "DEFY",
+        "tokenSwapRaito": "0.0024",
+        "opensAt": 1692893320557,
+        "endsAt": 1692893380557,
+        "idoStartsAt": 1692979660557,
+        "idoEndsAt": 1693066060557
+    }
+]

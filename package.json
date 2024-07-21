@@ -1,0 +1,20 @@
+{
+  "name": "crowdfunding-contract",
+  "author": "",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "npx thirdweb@latest detect",
+    "deploy": "npm run clean-build && npx thirdweb@latest deploy",
+    "release": "npx thirdweb@latest release",
+    "local": "npx hardhat node --network hardhat",
+    "clean-build": "rm -rf ./cache && rm -rf ./artifacts"
+  },
+  "devDependencies": {
+    "hardhat": "^2.13.0"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.9.3",
+    "@thirdweb-dev/contracts": "^3.8.0",
+    "dotenv": "^16.3.1"
+  }
+}
